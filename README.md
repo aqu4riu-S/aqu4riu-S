@@ -1,4 +1,4 @@
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">I'm Bruno</h2>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:rgb(181, 85, 237)">I'm Bruno</h2>
 
 <div style="display:flex; justify-content:center; margin-bottom:2rem">
     <img src="avatar2.png" alt="avatar2" width=200>
@@ -30,7 +30,7 @@ bruno.nicknames
 
 #### Socials? linkedin
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">Tecnhologies used</h2>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:rgb(181, 85, 237)">Tecnhologies used</h2>
 
 <div class="tech-stack" style="display:flex; gap:1rem; justify-content: space-between; align-items:center">
 <img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -55,7 +55,7 @@ bruno.nicknames
 
 ---
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">Github Stats</h2>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:rgb(181, 85, 237)">Github Stats</h2>
 
 <div style="display:flex; gap:.5rem">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -70,13 +70,13 @@ bruno.nicknames
 
 ---
 
-### Trophies
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:rgb(181, 85, 237)">Trophies</h3>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqu4riu-s&theme=dracula&rank=-?" alt="aqu4riu-s" /></a> </p>
+<p align="left" style="text-align:center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqu4riu-s&theme=dracula&rank=-?&margin-w=15" alt="aqu4riu-s" /></a> </p>
 
 ---
 
-### #30NitesOfCode Challenge:
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:rgb(181, 85, 237)">#30NitesOfCode Challenge:</h3>
 
 ![@deft #30NitesOfCode](https://www.codedex.io/api/petStatus?user=deft)
 
