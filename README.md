@@ -1,8 +1,10 @@
-### Yoo, I'm Bruno!
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">I'm Bruno</h2>
 
 <div style="display:flex; justify-content:center; margin-bottom:2rem">
     <img src="avatar2.png" alt="avatar2" width=200>
 </div>
+
+![alt text](icons8-pixel-heart-50.png)
 
 ```js
 bruno.hometown
@@ -19,36 +21,41 @@ bruno.interests
 
 bruno.languages
 => {🇵🇹: "native", 🇬🇧: "intermediary", 🇨🇳: "basic", 🇪🇸: "basic"}
+
+bruno.nicknames
+=> ["Deft", "aqu4riu-S"]
 ```
 
 ---
 
-<h2>Tecnhologies used</h2>
+#### Socials? linkedin
 
-<div class="tech-stack" style="display:flex; gap:1rem; justify-content: space-between; margin-bottom:2rem">
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">Tecnhologies used</h2>
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<div class="tech-stack" style="display:flex; gap:1rem; justify-content: space-between; align-items:center">
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-<img style="width:30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img style="width:38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 </div>
 
 ---
 
-### Github Stats
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center">Github Stats</h2>
 
 <div style="display:flex; gap:.5rem">
 <a href="https://github.com/anuraghazra/github-readme-stats">
