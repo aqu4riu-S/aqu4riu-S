@@ -82,55 +82,37 @@ bruno.nicknames
 
 <h3>Albums 💿</h3>
 
-<div class="flex-container">
-<div>
-<img width=100 src="./albums/recomecar.jpg"></img>
-</div>
-<div>
-<img width=100 src="./albums/did-you-know.jpg"></img>
-</div>
-<div>
-<img width=100 src="./albums/folklore.png"></img>
-</div>
-<div>
-<img width=100 src="./albums/grace.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 src="./albums/recomecar.jpg"></img></td>
+    <td valign="top"><img width=100 src="./albums/did-you-know.jpg"></img></td>
+    <td valign="top"><img width=100 src="./albums/folklore.png"></img></td>
+    <td valign="top"><img width=100 src="./albums/grace.jpg"></img></td>
+  </tr>
+</table>
 
 ---
 
 <h3>Movies 🎥</h3>
 
-<div class="flex-container">
-<div>
-<img width=100 height=140 src="./movies/the-shining.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/the-irishman.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/phantom-thread.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/joker.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 height=140 src="./movies/the-shining.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/the-irishman.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/phantom-thread.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/joker.jpg"></img></td>
+  </tr>
+</table>
 
 ---
 
 <h3>TV Shows 📺</h3>
 
-<div class=flex-container>
-<div>
-<img width=100 height=140 src="./tv-shows/brba.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/soa.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/fargo.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/brba.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/soa.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/fargo.jpg"></img></td>
+  </tr>
+</table>
