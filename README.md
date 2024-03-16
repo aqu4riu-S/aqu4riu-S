@@ -37,14 +37,16 @@ bruno.nicknames
 
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Github Stats</h2>
 
-<div style="display:flex; gap:.5rem;margin-bottom:1rem">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aqu4riu-S&theme=dracula&show_icons=true&bg_color=00000000&border_radius=1.5&rank_icon=github&ring_color=008DDA&title_color=008DDA&icon_color=41C9E2&border_color=ACE2E1&hide=stars,issues" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<table>
+  <tr>
+    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aqu4riu-S&theme=dracula&show_icons=true&border_radius=1.5&rank_icon=github&ring_color=008DDA&title_color=008DDA&icon_color=41C9E2&border_color=ACE2E1&hide=stars,issues" />
+</a></td>
+    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqu4riu-S&layout=compact&theme=dracula&langs_count=4&border_radius=1.5&rank_icon=github&title_color=F7EEDD&border_color=F7EEDD" />
-</a>
-</div>
+</a></td>
+  </tr>
+</table>
 
 <div style="display:flex; justify-content:center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqu4riu-s&theme=nord&background=000&border=008DDA&stroke=41C9E2&ring=F7EEDD&fire=008DDA&currStreakNum=008DDA&sideNums=F7EEDD&currStreakLabel=008DDA&sideLabels=F7EEDD&dates=41C9E2" alt="aqu4riu-s" /></p>
@@ -78,61 +80,37 @@ bruno.nicknames
 
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Albums 💿</h3>
 
-<div style="display:flex; justify-content:space-around;
-gap:.75rem;
-margin-bottom:2rem">
-<div>
-<img width=100 src="./albums/recomecar.jpg"></img>
-</div>
-<div>
-<img width=100 src="./albums/did-you-know.jpg"></img>
-</div>
-<div>
-<img width=100 src="./albums/folklore.png"></img>
-</div>
-<div>
-<img width=100 src="./albums/grace.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 src="./albums/recomecar.jpg"></img></td>
+    <td valign="top"><img width=100 src="./albums/did-you-know.jpg"></img></td>
+    <td valign="top"><img width=100 src="./albums/folklore.png"></img></td>
+    <td valign="top"><img width=100 src="./albums/grace.jpg"></img></td>
+  </tr>
+</table>
 
 ---
 
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Movies 🎥</h3>
 
-<div style="display:flex; justify-content:space-around;
-gap:.75rem;
-margin-bottom:2rem">
-<div>
-<img width=100 height=140 src="./movies/the-shining.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/the-irishman.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/phantom-thread.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./movies/joker.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 height=140 src="./movies/the-shining.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/the-irishman.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/phantom-thread.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./movies/joker.jpg"></img></td>
+  </tr>
+</table>
 
 ---
 
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">TV Shows 📺</h3>
 
-<div style="display:flex; justify-content:space-around;
-gap:.75rem;
-margin-bottom:2rem">
-<div>
-<img width=100 height=140 src="./tv-shows/brba.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/soa.jpg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img>
-</div>
-<div>
-<img width=100 height=140 src="./tv-shows/fargo.jpg"></img>
-</div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/brba.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/soa.jpg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img></td>
+    <td valign="top"><img width=100 height=140 src="./tv-shows/fargo.jpg"></img></td>
+  </tr>
+</table>
