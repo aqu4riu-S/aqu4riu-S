@@ -1,6 +1,8 @@
-<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; margin-bottom:3.5rem; color:#008DDA"> 🩵 Welcome To My Page 🩵 </h1>
+<link rel="stylesheet" href="styles.css">
 
-<h2 status style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#41C9E2">Getting to know me...</h2>
+<h1> 🩵 Welcome To My Page 🩵 </h1>
+
+<h2>Getting to know me...</h2>
 
 ```js
 bruno.hometown
@@ -35,7 +37,7 @@ bruno.nicknames
 
 ---
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Github Stats</h2>
+<h2>Github Stats</h2>
 
 <table>
   <tr>
@@ -54,13 +56,13 @@ bruno.nicknames
 
 ---
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Trophies</h2>
+<h2>Trophies</h2>
 
 <p align="left" style="text-align:center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqu4riu-s&theme=oldie&rank=-?&margin-w=15" alt="aqu4riu-s" /></a> </p>
 
 ---
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">#30NitesOfCode Challenge:</h2>
+<h2>#30NitesOfCode Challenge:</h2>
 
 ![@deft #30NitesOfCode](https://www.codedex.io/api/petStatus?user=deft)
 
@@ -76,41 +78,59 @@ bruno.nicknames
 
 ---
 
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#008DDA">My all-time art</h2>
+<h2>My all-time art</h2>
 
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Albums 💿</h3>
+<h3>Albums 💿</h3>
 
-<table>
-  <tr>
-    <td valign="top"><img width=100 src="./albums/recomecar.jpg"></img></td>
-    <td valign="top"><img width=100 src="./albums/did-you-know.jpg"></img></td>
-    <td valign="top"><img width=100 src="./albums/folklore.png"></img></td>
-    <td valign="top"><img width=100 src="./albums/grace.jpg"></img></td>
-  </tr>
-</table>
-
----
-
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">Movies 🎥</h3>
-
-<table>
-  <tr>
-    <td valign="top"><img width=100 height=140 src="./movies/the-shining.jpg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./movies/the-irishman.jpg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./movies/phantom-thread.jpg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./movies/joker.jpg"></img></td>
-  </tr>
-</table>
+<div class="flex-container">
+<div>
+<img width=100 src="./albums/recomecar.jpg"></img>
+</div>
+<div>
+<img width=100 src="./albums/did-you-know.jpg"></img>
+</div>
+<div>
+<img width=100 src="./albums/folklore.png"></img>
+</div>
+<div>
+<img width=100 src="./albums/grace.jpg"></img>
+</div>
+</div>
 
 ---
 
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align:center; color:#41C9E2">TV Shows 📺</h3>
+<h3>Movies 🎥</h3>
 
-<table>
-  <tr>
-    <td valign="top"><img width=100 height=140 src="./tv-shows/brba.jpg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./tv-shows/soa.jpg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img></td>
-    <td valign="top"><img width=100 height=140 src="./tv-shows/fargo.jpg"></img></td>
-  </tr>
-</table>
+<div class="flex-container">
+<div>
+<img width=100 height=140 src="./movies/the-shining.jpg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./movies/the-irishman.jpg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./movies/phantom-thread.jpg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./movies/joker.jpg"></img>
+</div>
+</div>
+
+---
+
+<h3>TV Shows 📺</h3>
+
+<div class=flex-container>
+<div>
+<img width=100 height=140 src="./tv-shows/brba.jpg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./tv-shows/soa.jpg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./tv-shows/true-detective.jpeg"></img>
+</div>
+<div>
+<img width=100 height=140 src="./tv-shows/fargo.jpg"></img>
+</div>
+</div>

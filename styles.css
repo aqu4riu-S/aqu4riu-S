@@ -1,3 +1,22 @@
-.class {
-  color: rgb(181, 85, 237);
+h1,
+h2,
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #008dda;
+}
+
+h2,
+h3 {
+  color: #41c9e2;
+}
+
+div.flex-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
 }
