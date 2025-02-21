@@ -33,7 +33,7 @@ bruno.nicknames
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&gap=5&line1=javascript,javascript,auto;html5,html,auto;css3,css,auto&line2=python,python,auto;postgresql,postgresql,auto;git,git,auto;github,github,auto&title=Tech%20Stack" alt="My Tech Stack" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&gap=5&line1=react,react,auto;tailwindcss,tailwindcss,auto;graphql,graphql,auto&title=Currently%20Learning" alt="Learning" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&gap=5&line1=angular,angular,auto;tailwindcss,tailwindcss,auto;graphql,graphql,auto&title=Currently%20Learning" alt="Learning" />
 
 ---
 
