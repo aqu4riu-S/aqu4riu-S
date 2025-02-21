@@ -12,7 +12,7 @@ bruno.majors
 => ["Computer Science and Engineering", "Biomedical Sciences"]
 
 bruno.learning
-=> ["React", "GraphQL", "Tailwind-CSS"]
+=> ["Angular", "GraphQL", "Tailwind-CSS"]
 
 bruno.interests
 => ["Snooker 🎱", "Tennis 🎾", "Writting ✍🏽", "Movies 🎥", "Nature 🌬️", "Music 🎶"]
